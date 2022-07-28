@@ -1,5 +1,20 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=PermisosDev&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PermisosDev&theme=tokyonight&layout=compact"/>
-<p><em>Überm Sternenzelt richtet Gott, wie wir gerichtet</em></p>
+<!-- Based On https://github.com/Pabszito/Pabszito, all credits to him -->
 
-<p><em> - Friedrich Schiller (1759-1805) </p> 
+<p align="center">
+  <br>
+  <samp>hi there</samp>
+  <br>
+  <samp>
+    <a href="https://twitter.com/h1tting">twitter</a> •
+    <a href="mailto:ido@terrorist.services">email</a>
+  </samp>
+  <br>
+</p>
 
+<details>
+  <summary>
+    <samp>stats</samp>
+  </summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=PermisosDev&theme=dark">
+</details>
