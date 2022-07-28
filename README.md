@@ -16,5 +16,5 @@
     <samp>stats</samp>
   </summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=PermisosDev&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=PermisosDev&count_private=true&theme=dark">
 </details>
