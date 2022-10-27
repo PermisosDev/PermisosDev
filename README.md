@@ -21,5 +21,5 @@
 
 ♫ Listening Now: ♫
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bst6opffctgn3reta6jgxcv7oi&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bst6opffctgn3reta6jgxcv7oi&cover_image=true&theme=Natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
