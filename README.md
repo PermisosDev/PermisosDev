@@ -16,9 +16,9 @@
     <samp>stats</samp>
   </summary>
   <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=PermisosDev&theme=onedark">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=PermisosDev&data=followers,repositories,stars,commits&theme=8008">
   <!-- <img src="https://activity-graph.herokuapp.com/graph?username=PermisosDev&theme=high-contrast"> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=PermisosDev&theme=onedark">
   <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,rust,markdown&theme=8008">
   <img src="https://github-widgetbox.vercel.app/api/skills?languages=windows,linux&theme=8008">
   
