@@ -6,7 +6,7 @@
   <br>
   <samp>
     <a href="https://twitter.com/h1tting">twitter</a> •
-    <a href="mailto:ido@terrorist.services">email</a>
+    <a href="mailto:no@more.available">email</a>
   </samp>
   <br>
 </p>
